@@ -8,7 +8,7 @@ Links and Resources
 
 - [back-end server url]() (when applicable)
 - [front-end application]() (when applicable)
-- 
+
 Setup
 .env requirements (where applicable)
 i.e.
