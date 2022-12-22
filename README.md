@@ -24,3 +24,5 @@ Tests
 - How do you run tests?
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
+
+Please note, upon successfully testing my code. I notice once I input additional code to render the game function. My test doesn't run successfully. I comment of the game function code.
